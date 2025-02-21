@@ -57,7 +57,7 @@ function AdminPanel() {
       </button>
       <div className="flex items-center mb-4">
         <img
-          src="./public/logoShop.png"
+          src="/logoShop.png"
           alt="logo"
           className="h-12 w-12 mr-4"
         />

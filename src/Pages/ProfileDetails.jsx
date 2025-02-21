@@ -29,7 +29,7 @@ export const Profile = () => {
   return (
     <div className="w-full h-screen absolute">
       <img
-        src="../public/bgAll.png"
+        src="/bgAll.png"
         alt=""
         className="w-full h-screen object-center object-cover"
       />
